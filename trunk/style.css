@@ -1,0 +1,44 @@
+/*
+Theme Name: basic jquery mobile
+Theme URI: http://friscic.com
+Description: Web & Wap - touch-optimized UI built with jQuery and HTML5
+Version: 0.1
+Author: manfred friscic
+Author URI: http://friscic.com
+Tags: basic, clean, two column, web & wap
+*/
+
+/* custom styles  
+*/
+.content
+{
+	border-radius: 10px;
+	background-color: #fff; 
+	color: #000;
+	text-shadow: 0 1px 1px #ccc;
+	padding: 10px;
+	margin: 0;
+}
+
+.content img,
+.content embed
+{
+	max-width: 100%;
+}
+
+/* @media rulez
+*/
+@media all and (min-width: 640px) {
+
+	.col1
+	{
+	   	width: 63%;
+	   	float: left;
+	   	padding-right: 2%;
+	}
+	.col2
+	{
+	    width: 35%;
+	    float: right;
+	}
+}
