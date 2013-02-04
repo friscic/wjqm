@@ -2,13 +2,13 @@
 
 <div class="col1">
 
-    <?php include("posts.php"); ?>
+	<?php include("posts.php"); ?>
 
 </div>
 
 <div class="col2">
     
-    <?php get_sidebar(); ?>
+  <?php get_sidebar(); ?>
 
 </div>
 

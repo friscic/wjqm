@@ -1,8 +1,8 @@
 <?php
 /**
  * @package friscic
- * @subpackage jqm
- * @since jquery mobile v1.0
+ * @subpackage wjqm
+ * @since jquery mobile v0.1
  */
 
 function enqueue_scripts()
